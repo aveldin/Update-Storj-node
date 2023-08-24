@@ -1,1 +1,1 @@
-# Update-Storj-node
+# The script allows you to update all Storj nodes
